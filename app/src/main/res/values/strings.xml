@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mKotlinCrime</string>
+    <string name="crime_title">Enter crime title here</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_title_details">Details</string>
+    <string name="crime_solved">Solved</string>
+    <string name="date_picker_title">Date of Crime</string>
+    <string name="new_crimme">New Crimme</string>
+</resources>
